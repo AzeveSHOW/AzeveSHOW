@@ -1,13 +1,21 @@
-🧑‍🎓 Professional Summary
+### ABOUT ME:
+
+---
+
+🧑‍🎓 **Professional Summary**
 🎓 4th semester student in Information Systems at UniMater.
 💼 Experience with Java, Office (Word, Excel), logical reasoning for problem-solving.
 💬 Communicative, ethical, creative, good team player, and quick learner.
 
-🎓 Academic Background
+---
+
+🎓 **Academic Background**
 Bachelor's Degree in Information Systems
 UniMater, Currently in 4th Semester
 
-🛠️ Skills and Competencies
+---
+
+🛠️ **Skills and Competencies**
 Programming Languages:
  Java
  Python
@@ -16,7 +24,9 @@ Database:
 Office Tools:
  Microsoft Office (Word, Excel)
 
-📈 Connect with Me: 
+---
+
+📈**Connect with Me:** 
 https://www.linkedin.com/in/fernando-henrique-de-azevedo-ba16222b6/
  
 
